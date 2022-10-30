@@ -1,0 +1,47 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'CSS/recommendation.css' %}">
+</head>
+
+<body>
+    <!-- 开始 -->
+    <div class="card">
+        <div class="photo">
+            <img src={{ img1}}>
+        </div>
+        <h1>{{ singer1}}</h1>
+        <h2>magnum opus:</h2>
+        <p>{{ singer1song1 }} </p>
+        <p>{{ singer1song2 }} </p>
+        <a href={{ link1 }}>Learn more</a>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src={{ img2}}>
+        </div>
+        <h1>{{ singer2}}</h1>
+        <h2>magnum opus:</h2>
+        <p>{{ singer2song1 }} </p>
+        <p>{{ singer2song2 }} </p>
+        <a href={{ link2 }}>Learn more</a>
+    </div>
+    <div class="card">
+        <div class="photo">
+            <img src={{ img3}}>
+        </div>
+        <h1>{{ singer3}}</h1>
+        <h2>magnum opus:</h2>
+        <p>{{ singer3song1 }} </p>
+        <p>{{ singer3song2 }} </p>
+        <a href={{ link3 }}>Learn more</a>
+    </div>
+</body>
+
+</html>
