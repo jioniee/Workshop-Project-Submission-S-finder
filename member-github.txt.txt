@@ -1,0 +1,6 @@
+Group name： AwsomeSG
+Xu Jiayu A0261690A
+Cai Zheng A0261940H
+Tang Enze A0261984R 
+
+git link: https://github.com/jioniee/Workshop-Project-Submission-S-finder
