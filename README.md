@@ -38,7 +38,7 @@ Our team has a clear work distribution and feels very happy to work together to 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  
-| :------------ |:---------------:| :-----| :-----|
+| :------------ |:---------------:|
 | Xu Jiayu | A0261690A |
 | Tang Enze | A0261984R |
 | Cai Zheng | A0261940H | 
